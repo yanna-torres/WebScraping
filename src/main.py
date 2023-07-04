@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 import re
-import psycopg2
 from Filme import Filme
 import sqlite3 as sql
 
